@@ -1,6 +1,6 @@
-# Symbrock
+# Venomas
 
-## Symbiote Rock
+Venomas is a symbrock band based in San Francisco
 
 <img
   src="icon.svg"
