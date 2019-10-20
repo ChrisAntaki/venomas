@@ -84,13 +84,6 @@
        id="circle839"
        inkscape:connector-curvature="0" />
     <circle
-       r="60"
-       style="opacity:1;vector-effect:none;fill:#004664;fill-opacity:1;stroke:none;stroke-width:282.05072021;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="circle14"
-       cx="-262"
-       cy="365.16663"
-       transform="scale(-1,1)" />
-    <circle
        transform="scale(-1,1)"
        cy="351.16663"
        cx="-270"
