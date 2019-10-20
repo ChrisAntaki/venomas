@@ -91,14 +91,8 @@
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:282.05072021;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        r="60" />
     <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path845"
-       d="M 279.80788,522.91663 C 279.80788,522.91663 166.84249,521.47485 139.49368,410.4806 144.08764,409.93877 130.29276,528.72459 211.55052,550.74916 247.99005,548.20348 276.45884,533.52133 279.80788,522.91663 Z"
-       style="fill:#004664;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 337.40702,473.13803 C 337.40702,473.13803 180,516.16664 138,410.16664 140.05493,409.37628 156.3878,546.66062 272.71525,533.68853 306.88545,520.85869 334.94887,504.46656 337.40702,473.13803 Z"
+       d="M 337.40702,473.13803 C 337.40702,473.13803 180,516.16664 138,410.16664 139.8048,408.45915 149.49462,521.38563 272.71525,533.68853 299.53642,522.55462 315.34312,508.99096 337.40702,473.13803 Z"
        id="path829"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
